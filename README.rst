@@ -42,3 +42,7 @@ Note, you can define all of these settings when you run your crawler with the
 TODO
 ====
 Have the feed exporter properly parse the FEED_URI string: ``azure://account_name:api_key@container/filename.json``
+
+DEVELOPER NOTES
+===============
+When deploying to pypi, just use twine
